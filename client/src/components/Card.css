@@ -11,19 +11,19 @@
 }
 
 .title {
-    color:white;
+    /* color:white; */
     padding-left:30px;
     font-size: 24px;
 }
 
 .author {
-    color:white;
+    /* color:white; */
     margin-bottom: 20px;
     font-size: 20px;
 }
 
 .description {
-    color:white;  
+    /* color:white;   */
     text-align: justify;
     text-justify: inter-word;
     padding-left: 30px;
@@ -40,7 +40,7 @@
     font-weight: 500;
     font-family: inherit;
     background-color: #1a1a1a;
-    color:white;
+    /* color:white; */
     cursor: pointer;
     transition: border-color 0.25s;
 }

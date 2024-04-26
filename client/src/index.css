@@ -5,5 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background:black;
+  background:white;
+}
+
+.m-form-card {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ml-4 {
+  margin-left: 0.4rem;
+}
+
+.m-comments{
+  background-color: #eee !important;
+  border: none !important;
+}
+
+body {
+  background-color: #eee !important;
 }
